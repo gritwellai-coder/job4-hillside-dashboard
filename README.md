@@ -38,7 +38,7 @@ Hillside Bikes has three branches and receives a sales export every month. The o
 
 - Riverside is the strongest branch with **$346,536 (36.2%)**, followed by Northgate (34.8%) and Hilltop (29.0%).
 
-- February was the best month (**$262,880**). March was the weakest (\*\*$217,483\*\*), and April recovered by 7.7%.
+- February was the best month (**$262,880**). March was the weakest (**$217,483**), and April recovered by 7.7%.
 
 - Electric Glide alone brings in **46.4%** of sales ($444,258).
 
@@ -52,9 +52,9 @@ An April file with new spelling variants was added to the folder. One **Refresh 
 
 ## How to update
 
-1. One-time setup: in Power Query, set **ProjectFolder** to your project folder (ending in `\\`).
+1. One-time setup: in Power Query, set **ProjectFolder** to your project folder (ending in `\`).
 
-2. Save each new monthly CSV in `data\\monthly` (don't open it first).
+2. Save each new monthly CSV in `data\monthly` (don't open it first).
 
 3. Click **Data → Refresh All**.
 
